@@ -4,8 +4,6 @@
 
 EL-DIP reconstructs heterogeneous shear modulus distributions from measured displacement fields using an untrained neural network coupled with a finite element model. The network is optimized for each reconstruction without an external training dataset.
 
-This repository provides selected code illustrating the overall EL-DIP framework described in the accompanying paper.
-
 ![Overview of the EL-DIP framework](assets/framework.png)
 
 *Framework overview.*
